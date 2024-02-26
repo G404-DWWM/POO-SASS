@@ -12,7 +12,7 @@
     - [Exercice 2](https://codepen.io/J-r-my-Michel/pen/OJqxPVb)
 
 ⚠️ **Avant de commencer les exercices ci-dessous, lire la ressource théorique suivante :**
-[SASS - Leçon 5 : les conditions et les boucles]([https://www.ice-dev.com/decoupe-html-css/sass-lecon-5-les-conditions-et-les-boucles/](https://grafikart.fr/tutoriels/sass-conditions-1106#autoplay))
+[SASS - Leçon 5 : les conditions et les boucles]([https://grafikart.fr/tutoriels/sass-conditions-1106#autoplay]
 
 - Forkez et suivez les consignes des exercices suivants :
   - [Mixin](https://codepen.io/J-r-my-Michel/pen/BabwyzW)
